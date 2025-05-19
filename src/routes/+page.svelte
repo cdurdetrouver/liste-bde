@@ -343,9 +343,9 @@
 					<img src="/hex-haven.jpg" alt="Left Logo" class="w-1/4" />
 					<div class="flex flex-col items-center gap-4 text-center">
 						<h1 class="h1">Hex Haven</h1>
-						<p>
+						<!-- <p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br />
-						</p>
+						</p> -->
 					</div>
 					<div class="flex flex-col items-center gap-4 text-center">
 						<h2 class="h2">Bureau</h2>
