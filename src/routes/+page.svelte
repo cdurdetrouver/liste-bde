@@ -93,18 +93,8 @@
 			role: 'Présidente'
 		},
 		{
-			login: 'ramahrez',
-			img: 'https://cdn.intra.42.fr/users/1bfa0d4f124c94bd3444025d0e95b8b5/ramahrez.jpg',
-			role: 'Vice-Président'
-		},
-		{
 			login: 'pfranke',
 			img: 'https://cdn.intra.42.fr/users/4cd43f78ead53c1289b4fa7d8ee187fa/pfranke.jpg',
-			role: 'Vice-Président'
-		},
-		{
-			login: 'leogarci',
-			img: 'https://cdn.intra.42.fr/users/5e5c730ab193e3b5f6c46eb0781838b8/leogarci.jpg',
 			role: 'Trésorier'
 		},
 		{
@@ -118,6 +108,16 @@
 			login: 'mlemerci',
 			img: 'https://cdn.intra.42.fr/users/5c1e235ab49914db3807374769d7373d/mlemerci.jpg',
 			role: 'Design'
+		},
+		{
+			login: 'ramahrez',
+			img: 'https://cdn.intra.42.fr/users/1bfa0d4f124c94bd3444025d0e95b8b5/ramahrez.jpg',
+			role: 'Clubs'
+		},
+		{
+			login: 'leogarci',
+			img: 'https://cdn.intra.42.fr/users/5e5c730ab193e3b5f6c46eb0781838b8/leogarci.jpg',
+			role: 'Comptabilité'
 		},
 		{
 			login: 'jle-doua',
